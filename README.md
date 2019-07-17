@@ -2,8 +2,8 @@
 echarts-forstock Copy From echarts
 为定制股票魔改版，目前暂且仅支持通过type修改蜡烛图为美国线
 使用方式：
-* 	1.yarn add echarts-forstock
-*      2.代码内修改为
+* 1.yarn add echarts-forstock
+* 2.代码内修改为
 ```        	import 'echarts-forstock/lib/chart/candlestickUSA';
         	import 'echarts-forstock/lib/chart/candlestick';
         	...
