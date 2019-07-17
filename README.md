@@ -4,7 +4,8 @@ echarts-forstock Copy From echarts
 使用方式：
 * 1.yarn add echarts-forstock
 * 2.代码内修改为
-```        	import 'echarts-forstock/lib/chart/candlestickUSA';
+```        	
+		import 'echarts-forstock/lib/chart/candlestickUSA';
         	import 'echarts-forstock/lib/chart/candlestick';
         	...
 		   {
